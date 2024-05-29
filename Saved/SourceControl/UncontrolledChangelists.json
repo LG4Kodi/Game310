@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Owner/Documents/Unreal Projects/Whitebox/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/Whitebox/Content/Nightclub.umap",
+				"C:/Users/Owner/Documents/Unreal Projects/Whitebox/Content/Music/Music.uasset",
+				"C:/Users/Owner/Documents/Unreal Projects/Whitebox/Content/Music/Payday_2_Soundtrack_-_Nightclub_Music.uasset"
+			]
+		}
+	]
+}
